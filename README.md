@@ -2,11 +2,11 @@
 Express.js, MongoDB, Mongoose, Session &amp; Cookie, Stripe-payment, Sendgrid-email, Multer, Heroku
 
 # 自分用チェックリスト
-[x]Node.jsによるバックエンド構築経験
-[x]軽量フレームワークの利用経験
-[x]MongoDBによるNoSQLデータモデリング経験
-[x]3rdパーティAPIの利用経験
-[x]PaaSの利用経験
+- [x] Node.jsによるバックエンド構築経験
+- [x] 軽量フレームワークの利用経験
+- [x] MongoDBによるNoSQLデータモデリング経験
+- [x] 3rdパーティAPIの利用経験
+- [x] PaaSの利用経験
 
 # 実装機能
 - 画像アップロード・削除(Multerを利用)
